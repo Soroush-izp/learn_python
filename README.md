@@ -1,2 +1,2 @@
 # learn_python
-learn &amp; practice python with course
+learn &amp; practice python along with course
